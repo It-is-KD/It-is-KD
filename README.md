@@ -3,7 +3,7 @@
 <div>Navigating the digital frontier with passion and purpose</div>
 </br>
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdraWt2dmJhdWllYTZvcW54djBuM2pjM3R6ejMyZXdoc2RsMmJieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QIl0CL2kd7sICgfqk0/giphy.gif" width="500" alt="Coding Banner"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdraWt2dmJhdWllYTZvcW54djBuM2pjM3R6ejMyZXdoc2RsMmJieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QIl0CL2kd7sICgfqk0/giphy.gif" width="1000" alt="Coding Banner"/>
 </div>
 
 ## 🔗 Connect With Me
