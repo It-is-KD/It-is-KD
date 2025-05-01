@@ -1,8 +1,6 @@
 # ✨ Khush Desai
 
-> *Navigating the digital frontier with passion and purpose*
-
-An enthusiastic explorer in the world of programming, crafting solutions and embracing challenges with curiosity and determination.
+> *Navigating the digital frontier with passion
 
 ## 🔗 Connect With Me
 
@@ -75,8 +73,7 @@ An enthusiastic explorer in the world of programming, crafting solutions and emb
 ---
 
 <div align="center">
-  
-[![Profile Visits](https://visitcount.itsvg.in/api?id=It-is-KD&icon=0&color=6)](https://visitcount.itsvg.in)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=It-is-KD&color=blueviolet&style=flat)
 
 </div>
