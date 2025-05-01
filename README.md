@@ -1,7 +1,7 @@
 # ✨ Khush Desai <img align="right" src="https://komarev.com/ghpvc/?username=It-is-KD&color=blueviolet&style=flat" />
 
 <div>Navigating the digital frontier with passion and purpose</div>
-
+</br>
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV6cjQ1eWowczU5bzZxcmF6ejg3N3NkMzlrZjRjcmkwejh3ZHd0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QIl0CL2kd7sICgfqk0/giphy.gif" width="600" alt="Coding Banner"/>
 </div>
