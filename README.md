@@ -1,9 +1,6 @@
 # ✨ Khush Desai <img align="right" src="https://komarev.com/ghpvc/?username=It-is-KD&color=blueviolet&style=flat" />
 
-<div>*Navigating the digital frontier with passion and purpose*
-
-  An enthusiastic explorer in the world of programming, crafting solutions and embracing challenges with curiosity and determination.
-</div>
+<div>Navigating the digital frontier with passion and purpose</div>
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV6cjQ1eWowczU5bzZxcmF6ejg3N3NkMzlrZjRjcmkwejh3ZHd0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QIl0CL2kd7sICgfqk0/giphy.gif" width="600" alt="Coding Banner"/>
@@ -60,27 +57,4 @@
     </td>
   </tr>
 </table>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=It-is-KD&theme=radical&no-frame=false&no-bg=true&margin-w=15&column=6&row=1" />
-</p>
-
-## 💭 Inspiration
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-  
-[![Profile Visits](https://visitcount.itsvg.in/api?id=It-is-KD&icon=0&color=6)](https://visitcount.itsvg.in)
-
-</div>
-
 <!-- Crafted with ❤️ -->
