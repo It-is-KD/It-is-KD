@@ -49,23 +49,20 @@ An enthusiastic explorer in the world of programming, crafting solutions and emb
 
 ## 📊 GitHub Metrics
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=It-is-KD&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=It-is-KD&theme=radical&hide_border=false" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=It-is-KD&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=It-is-KD&theme=radical&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=It-is-KD&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=It-is-KD&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=It-is-KD&theme=radical&no-frame=false&no-bg=true&margin-w=15&column=3)
-
-</div>
+<p align="center">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=It-is-KD&theme=radical&no-frame=false&no-bg=true&margin-w=15&column=6&row=1" />
+</p>
 
 ## 💭 Inspiration
 
@@ -80,6 +77,7 @@ An enthusiastic explorer in the world of programming, crafting solutions and emb
 <div align="center">
   
 [![Profile Visits](https://visitcount.itsvg.in/api?id=It-is-KD&icon=0&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=It-is-KD&color=blueviolet&style=flat)
 
 </div>
 
