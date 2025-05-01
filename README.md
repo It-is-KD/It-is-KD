@@ -51,36 +51,8 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=It-is-KD&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=It-is-KD&theme=radical&hide_border=false" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=It-is-KD&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</p>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=It-is-KD&theme=radical&no-frame=false&no-bg=true&margin-w=15&column=6&row=1" />
-</p>
-
-## 💭 Inspiration
-
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-  
-[![Profile Visits](https://visitcount.itsvg.in/api?id=It-is-KD&icon=0&color=6)](https://visitcount.itsvg.in)
 ![Profile Views](https://komarev.com/ghpvc/?username=It-is-KD&color=blueviolet&style=flat)
 
 </div>
