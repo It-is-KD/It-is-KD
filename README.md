@@ -1,98 +1,60 @@
-<h1 align="center">Khush&nbsp;Desai</h1>
+# ✨ Khush Desai <img align="right" src="https://komarev.com/ghpvc/?username=It-is-KD&color=blueviolet&style=flat" />
 
-<p align="center">
-  <sub>ENGINEER &nbsp;·&nbsp; DATA &nbsp;·&nbsp; DESIGN</sub>
-</p>
+<div>Navigating the digital frontier with passion and purpose</div>
+</br>
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdraWt2dmJhdWllYTZvcW54djBuM2pjM3R6ejMyZXdoc2RsMmJieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QIl0CL2kd7sICgfqk0/giphy.gif" width="1000" alt="Coding Banner"/>
+</div>
 
-<p align="center">
-  <a href="https://khush-desai.in/">Website</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/khush-desai">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://medium.com/@khush.desai.kol">Writing</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:khush.desai.kol@gmail.com">Email</a>
-</p>
+## 🔗 Connect With Me
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khush-desai) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@khush.desai.kol) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khush.desai.kol@gmail.com)
 
----
-
-<br/>
-
-### About
-
-I build software that sits quietly and does its job — mostly around data,
-machine learning, and the interfaces that make both of them legible to people.
-
-I like small tools, readable code, and problems that look boring until you
-open them up. Based in Kolkata. Usually somewhere near a coffee.
-
-<br/>
-
-### Focus
+## 💻 Technical Expertise
 
 <table>
-<tr>
-  <td width="120"><sub><b>NOW</b></sub></td>
-  <td>Applied machine learning &amp; data pipelines</td>
-</tr>
-<tr>
-  <td><sub><b>LEARNING</b></sub></td>
-  <td>Systems design and the art of scaling calmly</td>
-</tr>
-<tr>
-  <td><sub><b>OPEN TO</b></sub></td>
-  <td>Collaboration, conversation, good problems</td>
-</tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data Science</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps & DB</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Design</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+    </td>
+  </tr>
 </table>
-
-<br/>
-
-### Toolkit
-
-<table>
-<tr>
-  <td width="140"><sub><b>LANGUAGES</b></sub></td>
-  <td><code>Python</code> <code>Java</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code></td>
-</tr>
-<tr>
-  <td><sub><b>FRAMEWORKS</b></sub></td>
-  <td><code>React</code> <code>Node.js</code> <code>TensorFlow</code></td>
-</tr>
-<tr>
-  <td><sub><b>DATA</b></sub></td>
-  <td><code>NumPy</code> <code>pandas</code> <code>scikit-learn</code></td>
-</tr>
-<tr>
-  <td><sub><b>PLATFORM</b></sub></td>
-  <td><code>AWS</code> <code>Git</code> <code>MySQL</code></td>
-</tr>
-<tr>
-  <td><sub><b>DESIGN</b></sub></td>
-  <td><code>Figma</code> <code>Photoshop</code></td>
-</tr>
-</table>
-
-<br/>
-
-### Activity
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=It-is-KD&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&hide=issues&bg_color=00000000&icon_color=C96442&text_color=8A8078&title_color=C96442&ring_color=C96442" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=It-is-KD&layout=compact&hide_border=true&hide_title=true&langs_count=6&bg_color=00000000&text_color=8A8078&title_color=C96442" />
-</p>
-
-<br/>
-
----
-
-<br/>
-
-<p align="center">
-  <sub>Slow is smooth. Smooth is fast.</sub>
-</p>
-
-<p align="center">
-  <sub><a href="mailto:khush.desai.kol@gmail.com">Say hello</a></sub>
-</p>
+<!-- Crafted with ❤️ -->
