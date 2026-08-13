@@ -8,6 +8,7 @@
 
 ## 🔗 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23f6f4ef.svg?logo=google-chrome&logoColor=black)](https://khush-desai.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khush-desai) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@khush.desai.kol) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khush.desai.kol@gmail.com)
